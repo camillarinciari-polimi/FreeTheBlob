@@ -1,4 +1,4 @@
-# Design document - to deliver the 3th of November
+# Design document - 3th of November
 
 ## Free the Blob!
 
