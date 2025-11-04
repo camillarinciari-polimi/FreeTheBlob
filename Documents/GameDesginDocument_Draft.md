@@ -6,7 +6,9 @@ Blob is a strange alien mass accidentally brought to life by a reckless scientis
 
 ---
 
-# Design Document - 3rd November
+# Design Document - 3rd November  
+
+To see sketches, open the PDF file.
 
 ## Overview and vision statement
 
