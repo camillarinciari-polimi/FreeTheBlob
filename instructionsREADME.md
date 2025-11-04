@@ -4,6 +4,13 @@ This repository contains the **Free The Blob!** project developed during the lab
 
 ---
 
+## Deadlines
+
+**3rd November** Design document  
+**7th December** Prototype Submission  
+**11th January** Beta submission  
+**24th February** Final Project submission  
+
 ## Requirements
 
 ### Source Code & Assets
